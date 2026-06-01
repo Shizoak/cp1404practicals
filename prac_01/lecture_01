@@ -1,0 +1,22 @@
+Lecture_01
+
+# Write an algorithm for how you play a game
+
+set up computer
+press the power button
+launch steam
+press the game you want to play
+press play
+
+# Write pseudocode (an algorithm) to calculate how much a TV streaming service will cost per year based on a monthly subscription cost the user enters
+
+get monthly_cost
+yearly_cost =  monthly_cost * 12
+print yearly_cost
+
+# Calculate user net pay after deducting tax
+
+TAX = 1.10
+get initial pay
+net pay = initial pay - (initial pay * TAX)
+print net pay
