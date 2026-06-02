@@ -28,4 +28,5 @@ def determine_grade(score):
 def get_random_score():
     return randint(0, 100)
 
+
 main()
